@@ -1,4 +1,4 @@
-.rodape {
+.pg_rodape {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -6,21 +6,21 @@
     padding: 40px 0;
 }
 
-.rodape .social {
+.pg_rodape .social {
     display: flex;
     gap: 20px;
 }
 
-.rodape .social img {
+.pg_rodape .social img {
     width: 25px;
     cursor: pointer;
 }
 
-.rodape>img {
+.pg_rodape>img {
     max-width: 130px;
 }
 
-.rodape h3 {
+.pg_rodape h3 {
     color: #FFFFFF;
     font-weight: 400;
     font-size: 16px;

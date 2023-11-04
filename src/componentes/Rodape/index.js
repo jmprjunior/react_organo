@@ -2,7 +2,7 @@ import "./Rodape.css";
 
 const Rodape = () => {
     return (
-        <footer className="rodape">
+        <footer className="pg_rodape">
             <div className="social">
                 <a href="facebook.com" target="_blank">
                     <img src="/imagens/fb.png" alt="" />
