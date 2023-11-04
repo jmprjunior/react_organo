@@ -1,0 +1,27 @@
+.rodape {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: hsl(231, 90%, 68%);
+    padding: 40px 0;
+}
+
+.rodape .social {
+    display: flex;
+    gap: 20px;
+}
+
+.rodape .social img {
+    width: 25px;
+    cursor: pointer;
+}
+
+.rodape>img {
+    max-width: 130px;
+}
+
+.rodape h3 {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+}
